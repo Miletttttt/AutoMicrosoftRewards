@@ -5,6 +5,7 @@ Auto reinvidicates the rewards from Microsoft Rewards
   > Auto 3 daily quests
   > Auto 95 searches
 
+```
 ⢠⠊⣉⠒⠤⢀⡀          ⡐⢁⠴⢜⢄
  ⡎⢸  ⠉⠐⠢⢌⠑⢄    ⡸  ⡆    ⠣⠱⡀
  ⡇⢸        ⣀⠗  ⠉⠉⠁  ⠙⠢⠤⡀⢃⢱
@@ -13,5 +14,6 @@ Auto reinvidicates the rewards from Microsoft Rewards
  ⢸            ⢀⣀⣀⡀        ⢀⣀⣀⡀  ⢣
  ⡸        ⢴⣾⡿⠿⠽⠇        ⠘⠛⠛⠛    ⠈⢄
 ⠰⡁              ⢠⠒⠢⡀⠈⠒⠊  ❤   ⡠⢄  ⡘
- ⠱⣀          ⢀⠜    ⠇        ⢀⠔⠁  ⡏
-     ⠑⠤⢄⣀⠔⠁    ⡜        ⠊⠁    ⢀⠜
+ ⠱⣀          ⢀⠜    ⠇        ⢀⠔⠁   ⡏
+     ⠑⠤⢄⣀⠔⠁    ⡜        ⠊⠁     ⢀⠜
+```
